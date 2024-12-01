@@ -42,13 +42,11 @@ button {
     color: #2e2f42;
 }
 
-.nav-item .nav-item-link:hover, .nav-item-link-active:hover, .contacts-list .contacts-list-item:hover, .nav-item .nav-item-link:focus,
-.nav-item-link-active:focus, .contacts-list .contacts-list-item:focus {
+.nav-item .nav-item-link:hover, .contacts-list .contacts-list-item:hover, .nav-item .nav-item-link:focus,
+.contacts-list .contacts-list-item:focus {
     color: #404bbf;
 }
-.nav-item-link-active:active {
-    color: #404bbf;
-}
+
 /* #endregion */
 
 /* #region contacts */
