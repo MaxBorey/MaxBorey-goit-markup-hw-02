@@ -132,7 +132,9 @@ button {
 
 .team-list {}
 
-.team-list-item {}
+.team-list-item {
+    background-color: #FFFFFF;
+}
 
 .team-card-img {}
 
